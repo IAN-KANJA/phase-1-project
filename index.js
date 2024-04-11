@@ -3,7 +3,8 @@ function renderOneImages(data) {
   let card = document.createElement("li");
   card.className = "card";
   card.innerHTML = `
- <img src="${data.thumbnail.lqip}" alt="A bronze lion, deep green and muscular, looks out in the distance from its pedestal in front of the Art Institute of Chicago." width="8430" height="5620">
+ <img   src="${data.thumbnail.lqip}" alt="A bronze lion, deep green and muscular, looks out in the distance from its pedestal in front of the Art Institute of Chicago." width="550" height="562">
+
  <div class="content">
     <h4>${data.title}</h4>
     <p>${data.alt_text}</p>
