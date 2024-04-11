@@ -1,173 +1,174 @@
 {
-    "preference": null,
-    "pagination": {
-      "total": 7429,
-      "limit": 10,
-      "offset": 0,
-      "total_pages": 743,
-      "current_page": 1
+  
+  "pagination": {
+    "total": 7430,
+    "limit": 10,
+    "offset": 0,
+    "total_pages": 743,
+    "current_page": 1
+  },
+  "data": [
+    {
+      "_score": 135.18326,
+      "thumbnail": {
+        "alt_text": "A bronze lion, deep green and muscular, looks out in the distance from its pedestal in front of the Art Institute of Chicago.",
+        "width": 8430,
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAADY5NTQ/PkI4IT1COjtEQkNHQk5YWFteWWtkTmtoX291WnJ1WX1xZ355cYZ3Zn+Cf42KaoWEeJOKfpeWcoCEgI2OiJaQgp+XgpWRiJWTjKKbjqqhkK+olbGml7q0q7e2sMG5rcbAs8fBuMrGv8/HvsnJud3d3evr7gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQJPnIwKRQpPTyPDgQDaC0gUQIAwsDISjcUgUMB2JpkLJRBSLIAA7",
+        "height": 5620
+      },
+      "api_model": "artworks",
+      "is_boosted": false,
+      "api_link": "https://api.artic.edu/api/v1/artworks/656",
+      "id": 656,
+      "title": "Lion (One of a Pair, South Pedestal)",
+      "timestamp": "2024-04-10T23:26:57-05:00"
     },
-    "data": [
-      {
-        "_score": 135.79857,
-        "thumbnail": {
-          "alt_text": "A Sunday on La Grande Jatte — 1884",
-          "width": 8430,
-          "lqip": "data:image/https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/843,/0/default.jpg",
-          "height": 5620
-        },
-        "api_model": "artworks",
-        "is_boosted": false,
-        "api_link": "https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884",
-        "id": 656,
-        "title": "A Sunday on La Grande Jatte — 1884",
-        "timestamp": "2024-04-08T23:27:04-05:00"
+    {
+      "_score": 118.355484,
+      "thumbnail": {
+        "alt_text": "A work made of oil on board.",
+        "width": 6486,
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACUiHCckHSghGi4nGislHi0mHjMvJDUuJDUwITcwIz07LUY+LUhALktGNExGNFFINGhYOWdcQXVlRYRmSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4EAwC3JMjxJJhgM1QSEkQAgAOw==",
+        "height": 7661
       },
-      {
-        "_score": 119.11841,
-        "thumbnail": {
-          "alt_text": "Africa Restored (Cheryl as Cleopatra)",
-          "width": 6486,
-          "lqip": "data:image/https://www.artic.edu/iiif/2/20c7fd0a-6ffe-4891-0d05-3d5238b8b542/full/400,/0/default.jpg",
-          "height": 7661
-        },
-        "api_model": "artworks",
-        "is_boosted": false,
-        "api_link": "https://www.artic.edu/artworks/193320/africa-restored-cheryl-as-cleopatra",
-        "id": 117241,
-        "title": "Africa Restored (Cheryl as Cleopatra)",
-        "timestamp": "2024-04-03T16:35:47-05:00"
+      "api_model": "artworks",
+      "is_boosted": false,
+      "api_link": "https://api.artic.edu/api/v1/artworks/117241",
+      "id": 117241,
+      "title": "Girl with Cat",
+      "timestamp": "2024-04-03T16:35:47-05:00"
+    },
+    {
+      "_score": 115.55684,
+      "thumbnail": {
+        "alt_text": "A work made of oil on cardboard.",
+        "width": 4603,
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFpcVVthVGBgSndvSW5hUWtlWHJvVWxpYHJ1bYd+an2Feo6Da4iGcZmTfqWdi6SgkK+rnLS7q7u4qb68rAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBIIQ8QQBlIsDXAkzjNJUAgAOw==",
+        "height": 5060
       },
-      {
-        "_score": 116.25451,
-        "thumbnail": {
-          "alt_text": "City Landscape",
-          "width": 4603,
-          "lqip": "data:image/https://www.artic.edu/iiif/2/f7f9615d-2c2b-6b23-47b2-cd6cdc846504/full/400,/0/default.jpg",
-          "height": 5060
-        },
-        "api_model": "artworks",
-        "is_boosted": false,
-        "api_link": "https://www.artic.edu/artworks/86385/city-landscape",
-        "id": 45259,
-        "title": "City Landscape",
-        "timestamp": "2024-04-08T23:29:10-05:00"
+      "api_model": "artworks",
+      "is_boosted": false,
+      "api_link": "https://api.artic.edu/api/v1/artworks/45259",
+      "id": 45259,
+      "title": "Nude with Cats",
+      "timestamp": "2024-04-10T23:28:56-05:00"
+    },
+    {
+      "_score": 103.19823,
+      "thumbnail": {
+        "alt_text": "A color woodblock print of two orangeand white cats with pink noses represented in cubist-like design against a blue, gray and black background",
+        "width": 1645,
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACAmNC0wPW1VOTw/SVlWUXBlVnV2doVnQ494WYx8aI+BboWAedipa4iOlYyQlI+UmaabkLKpmta2jKi52wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoAJNw5IUQEMggWNIwhMxRwgAOw==",
+        "height": 2250
       },
-      {
-        "_score": 103.831764,
-        "thumbnail": {
-          "alt_text": "Water Lilies",
-          "width": 1645,
-          "lqip": "data:image/https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/400,/0/default.jpg",
-          "height": 2250
-        },
-        "api_model": "artworks",
-        "is_boosted": false,
-        "api_link": "https://www.artic.edu/artworks/16568/water-lilies",
-        "id": 16227,
-        "title": "Water Lilies",
-        "timestamp": "2024-01-11T11:33:11-06:00"
+      "api_model": "artworks",
+      "is_boosted": false,
+      "api_link": "https://api.artic.edu/api/v1/artworks/16227",
+      "id": 16227,
+      "title": "Cat Making Up",
+      "timestamp": "2024-01-11T11:33:11-06:00"
+    },
+    {
+      "_score": 97.682915,
+      "thumbnail": {
+        "alt_text": "A work made of watercolor and gouache, over touches of graphite, on cream wove paper.",
+        "width": 1754,
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJB4cbqIcIp/irSQgrWXhbScjbGZlqqdqqicr66iusCklcGpm7m0zb+409LH0NPF09XJ1tbL1tnM2d7P3wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCRBDtNMD5IIxxAARkEoSwgAOw==",
+        "height": 2250
       },
-      {
-        "_score": 98.06922,
-        "thumbnail": {
-          "alt_text": "Starry Night and the Astronauts",
-          "width": 1754,
-          "lqip": "data:image/https://www.artic.edu/iiif/2/e966799b-97ee-1cc6-bd2f-a94b4b8bb8f9/full/400,/0/default.jpg",
-          "height": 2250
-        },
-        "api_model": "artworks",
-        "is_boosted": false,
-        "api_link": "https://www.artic.edu/artworks/129884/starry-night-and-the-astronauts",
-        "id": 22482,
-        "title": "Starry Night and the Astronauts",
-        "timestamp": "2024-04-08T23:22:55-05:00"
+      "api_model": "artworks",
+      "is_boosted": false,
+      "api_link": "https://api.artic.edu/api/v1/artworks/22482",
+      "id": 22482,
+      "title": "Homesickness",
+      "timestamp": "2024-04-10T23:22:43-05:00"
+    },
+    {
+      "_score": 93.264496,
+      "thumbnail": {
+        "alt_text": "A work made of lithograph in 6 colors (red, ochre, yellow, black, gray-brown, brown) from two stones, with scraping on stone, on ivory wove paper.",
+        "width": 2928,
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEI9JFFFLV5QPWVaOn1VR31rUHhpV3BnXHprWYBhRpJgUIdyU6VqW6pxXKR5WId9b458bcBvZcdwaM14btR3b9V8c9F/eI6Dc6uHeqKSfcORhtiVjdmWjt6ZkAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4GUgxZI9QgAk2jE4CrNBhFVRHdZMkcSFADs=",
+        "height": 2250
       },
-      {
-        "_score": 93.84005,
-        "thumbnail": {
-          "alt_text": "The Bedroom",
-          "width": 2928,
-          "lqip": "data:image/https://www.artic.edu/iiif/2/25c31d8d-21a4-9ea1-1d73-6a2eca4dda7e/full/400,/0/default.jpg",
-          "height": 2250
-        },
-        "api_model": "artworks",
-        "is_boosted": false,
-        "api_link": "https://www.artic.edu/artworks/28560/the-bedroom",
-        "id": 51719,
-        "title": "The Bedroom",
-        "timestamp": "2024-01-29T19:55:56-06:00"
+      "api_model": "artworks",
+      "is_boosted": false,
+      "api_link": "https://api.artic.edu/api/v1/artworks/51719",
+      "id": 51719,
+      "title": "Winter: Cat on a Cushion",
+      "timestamp": "2024-01-29T19:55:56-06:00"
+    },
+    {
+      "_score": 91.76914,
+      "thumbnail": {
+        "alt_text": "A work made of gold, enamel, and baroque pearl.",
+        "width": 2911,
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAKGJbLOYdbKafMGhdJ6fn6eWgLSgiLCnnKKhoaWjpKakpaelpqenp66wtbKwsbSztLW0tLi3uLe5v7y9vsasjsO6ssK9vMPAvsfBvMXBwMTCwsLCxcjIyO3m3wAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYILMoCUJAjxMczXR1QyFtBiUAEYdVVqaFADs=",
+        "height": 2250
       },
-      {
-        "_score": 92.345436,
-        "thumbnail": {
-          "alt_text": "Portrait Bust of a Woman",
-          "width": 2911,
-          "lqip": "data:image/https://www.artic.edu/iiif/2/34133244-99a5-246f-c72f-76f32e55d253/full/400,/0/default.jpg",
-          "height": 2250
-        },
-        "api_model": "artworks",
-        "is_boosted": false,
-        "api_link": "https://www.artic.edu/artworks/159136/portrait-bust-of-a-woman",
-        "id": 119335,
-        "title": "Portrait Bust of a Woman",
-        "timestamp": "2024-01-11T11:56:36-06:00"
+      "api_model": "artworks",
+      "is_boosted": false,
+      "api_link": "https://api.artic.edu/api/v1/artworks/119335",
+      "id": 119335,
+      "title": "Baroque Pearl Mounted as a Cat Holding a Mouse",
+      "timestamp": "2024-01-11T11:56:36-06:00"
+    },
+    {
+      "_score": 91.69573,
+      "thumbnail": {
+        "alt_text": "A work made of hand-colored woodblock print; tan-e, vertical o-oban.",
+        "width": 2039,
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAK+RdLmlgryjhrCgiL2oj8KymsWzmMq2msvArMvBrNDBrNDGsdjLtNnOtwAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLMLFmRCvhDECWQhEAOw==",
+        "height": 3800
       },
-      {
-        "_score": 92.29035,
-        "thumbnail": {
-          "alt_text": "Nighthawks",
-          "width": 2039,
-          "lqip": "data:image/https://www.artic.edu/iiif/2/831a05de-d3f6-f4fa-a460-23008dd58dda/full/400,/0/default.jpg",
-          "height": 3800
-        },
-        "api_model": "artworks",
-        "is_boosted": false,
-        "api_link": "https://www.artic.edu/artworks/111628/nighthawks",
-        "id": 158921,
-        "title": "Nighthawks",
-        "timestamp": "2024-01-11T12:06:45-06:00"
+      "api_model": "artworks",
+      "is_boosted": false,
+      "api_link": "https://api.artic.edu/api/v1/artworks/158921",
+      "id": 158921,
+      "title": "Courtesan Playing with a Cat",
+      "timestamp": "2024-01-11T12:06:45-06:00"
+    },
+    {
+      "_score": 90.81509,
+      "thumbnail": {
+        "alt_text": "A work made of lithograph in black on ivory wove paper, laid down on ivory cloth.",
+        "width": 1767,
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAC0nHFpSRH92Z4V+boyDdJOId6KWh6GYiaacjKidja6lkq6klLKolrmunb6zosO4psK6qMe6qNHEstPItwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYIQs0zMojQBARxEwhOQkRggAOw==",
+        "height": 2250
       },
-      {
-        "_score": 91.40049,
-        "thumbnail": {
-          "alt_text": "Veranda Post (Òpó Ògògá)",
-          "width": 1767,
-          "lqip": "data:image/https://www.artic.edu/iiif/2/4dd78841-4237-9e49-76ec-136fbfa0b0a7/full/400,/0/default.jpg",
-          "height": 2250
-        },
-        "api_model": "artworks",
-        "is_boosted": false,
-        "api_link": "https://www.artic.edu/artworks/102611/veranda-post-opo-ogoga",
-        "id": 68825,
-        "title": "Veranda Post (Òpó Ògògá)",
-        "timestamp": "2024-04-08T23:28:54-05:00"
+      "api_model": "artworks",
+      "is_boosted": false,
+      "api_link": "https://api.artic.edu/api/v1/artworks/68825",
+      "id": 68825,
+      "title": "The Cats' Rendezvous",
+      "timestamp": "2024-04-10T23:28:41-05:00"
+    },
+    {
+      "_score": 88.71547,
+      "thumbnail": {
+        "alt_text": "A work made of lithograph (brush, crayon and spatter with scraper) in pink/mauve, violet black and brown on cream wove paper.",
+        "width": 3000,
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAGFKRWlPSGdXUWxaU6VuXIlvY5RvYIZwZpt2Z5V3ap9/b6h4ZpqEd6SAb7CAbLaEb6WFdMuVfL2ZhsCXg8eZgN25oNrCreXBqOnFqufLs+fOtu7Sue3dx+/jzwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIGdtGXZ1xyAUlZYECMBMxBMZirQ4VAOFADs=",
+        "height": 2416
       },
-      {
-        "_score": 89.262955,
-        "thumbnail": {
-          "alt_text": "American-Gothic",
-          "width": 3000,
-          "lqip": "data:image/https://www.artic.edu/iiif/2/b272df73-a965-ac37-4172-be4e99483637/full/400,/0/default.jpg",
-          "height": 2416
-        },
-        "api_model": "artworks",
-        "is_boosted": false,
-        "api_link": "https://www.artic.edu/artworks/6565/american-gothic",
-        "id": 51724,
-        "title": "American-Gothic",
-        "timestamp": "2024-01-11T11:41:27-06:00"
-      }
+      "api_model": "artworks",
+      "is_boosted": false,
+      "api_link": "https://api.artic.edu/api/v1/artworks/51724",
+      "id": 51724,
+      "title": "Summer: Cat on a Balustrade",
+      "timestamp": "2024-01-11T11:41:27-06:00"
+    }
+  ],
+  "info": {
+    "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+    "license_links": [
+      "https://creativecommons.org/publicdomain/zero/1.0/",
+      "https://www.artic.edu/terms"
     ],
-    "info": {
-      "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
-      "license_links": [
-        "https://creativecommons.org/publicdomain/zero/1.0/",
-        "https://www.artic.edu/terms"
-      ],
-      "version": "1.10"
-    },
-    "config": {
-      "iiif_url": "https://www.artic.edu/iiif/2",
-      "website_url": "http://www.artic.edu"
-    }}
+    "version": "1.10"
+  },
+  "config": {
+    "iiif_url": "https://www.artic.edu/iiif/2",
+    "website_url": "http://www.artic.edu"
+  }
+}

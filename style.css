@@ -116,8 +116,11 @@
      margin-top: 0px;
     text-align: center;
 }
-.img-file-1{
-    width:300px
+ .img-TheBedroom{
+    width:300px;
+    /* display: flex; */
+    object-fit: initial;
+
 }
 
 .img-file-2{
@@ -126,6 +129,30 @@
     
 }
 .img-file-3{
+    width:300px;
+    
+}
+
+.img-file-4{
+    width:300px
+}
+
+.img-file-5{
+    width:300px
+}
+.img-file-6{
+    width:300px
+}
+.img-file-7{
+    width:300px
+}
+.img-file-8{
+    width:300px
+}
+.img-file-9{
+    width:300px
+}
+.img-file-10{
     width:300px
 }
 .text-muted-5{
@@ -188,6 +215,7 @@
 .justify-content-center-2{
     background-color: #e7dbc3;
 }
-.portfolio{
-    
+
+.image-class{
+    margin-left: 700px;
 }
